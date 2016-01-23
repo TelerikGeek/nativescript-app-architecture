@@ -5,12 +5,12 @@ var ViewModel,
 
 ViewModel = new Observable({
 
-    pageTitle: 'Home View',
+    pageTitle: 'My Rental History',
     // additional properties
 });
 
-// START_CUSTOM_CODE_homeView
+// START_CUSTOM_CODE_myRentalHistoryView
 // Add custom code here. For more information about custom code, see http://docs.telerik.com/platform/screenbuilder/troubleshooting/how-to-keep-custom-code-changes
 
-// END_CUSTOM_CODE_homeView
+// END_CUSTOM_CODE_myRentalHistoryView
 module.exports = ViewModel;

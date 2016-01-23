@@ -3,11 +3,27 @@
   "views": [
     {
       "type": "NativeScript:view",
-      "name": "homeView",
+      "name": "browseRentalCarsView",
       "components": [],
-      "title": "Home View",
+      "title": "Rental Cars",
       "addToNavigation": true,
-      "icon": "home"
+      "icon": "organize"
+    },
+    {
+      "type": "NativeScript:view",
+      "name": "myRentalHistoryView",
+      "components": [],
+      "title": "My Rental History",
+      "addToNavigation": true,
+      "icon": "action"
+    },
+    {
+      "type": "NativeScript:view",
+      "name": "profileView",
+      "components": [],
+      "title": "Profile",
+      "addToNavigation": true,
+      "icon": "contacts"
     }
   ],
   "dataProviders": [],
